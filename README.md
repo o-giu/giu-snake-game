@@ -14,4 +14,5 @@ made with Python ~ 💻 Windows<br>
 - 🇧🇷 O jogo termina se a cobra colidir com as paredes ou consigo mesma.  
   🇺🇸 The game ends if the snake collides with the walls or itself.
 
-![giu-snake-game](https://github.com/user-attachments/assets/b7516992-ffb8-4262-b959-fe2a88e75b1a)
+![image](https://github.com/user-attachments/assets/1c864a38-ab7a-46fb-a1dc-dd2b381bce4f)
+
