@@ -1,6 +1,5 @@
 # 🐍 Giu ~ Jogo da Cobrinha / Snake Game
 made with Python ~ 💻 Windows<br>
-**pip install pygame cryptography** (🇧🇷 caso quiser compilar / 🇺🇸 if you want to compile)<br>
 🇧🇷 O .exe pode ser encontrado nos releases / 🇺🇸 The .exe can be found in the releases)
 
 ## Como Jogar / How to Play 🎮  
